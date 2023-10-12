@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bulls Eye 🎯</string>
+    <string name="instructions">Slider the slider to select a value</string>
+    <string name="minSliderValue">0</string>
+    <string name="maxSliderValue">100</string>
+    <string name="clickMe">Click me</string>
+    <string name="ok">ok</string>
+    <string name="alertMessage">slider value is %1$d \n you had %2$d points"</string>
+    <string name="alertMsg1">You are great</string>
+    <string name="alertMsg2">You almost hit it</string>
+    <string name="alertMsg3">Far from the goal try again</string>
+</resources>
